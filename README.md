@@ -24,3 +24,7 @@ and clicking "Copy ID"
 Change action 12 & 13: Only change these if you want the success and error
 message to be changed. *NOTE*: MEMBERS ONLY HAVE TWO MINUTES TO REACT TO THE
 MESSAGE VIA DM, IF THEY DONT THEY WILL GET AN ERROR MESSAGE!
+
+VERIFYMEMBER COMMAND: Simply use this to verify any member you want, if you
+are staff in the server. Simply change action 1 with the role id of the 
+role you selected!
