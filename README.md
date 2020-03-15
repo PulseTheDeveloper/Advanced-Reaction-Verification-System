@@ -28,3 +28,6 @@ MESSAGE VIA DM, IF THEY DONT THEY WILL GET AN ERROR MESSAGE!
 VERIFYMEMBER COMMAND: Simply use this to verify any member you want, if you
 are staff in the server. Simply change action 1 with the role id of the 
 role you selected!
+
+Make sure to change the ID of the verified role in the setup channel command!
+This is action #6!
